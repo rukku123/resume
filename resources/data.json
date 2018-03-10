@@ -1,0 +1,13 @@
+{
+  "basics":{
+    "name":"rohitha",
+    "age":"20",
+    "role":"student",
+    "mobile":"9595959595",
+
+  },
+
+    "career" : {
+            "objective":"I am seeking employment with a company where I can grow professionally and personally"
+    }
+}
